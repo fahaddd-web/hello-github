@@ -1,4 +1,4 @@
-# hello-github
+# Hello-github
 Halo! Ini adalah repository Github pertama saya.
 
 ## Tentang saya
