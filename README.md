@@ -3,6 +3,7 @@ Halo! Ini adalah repository Github pertama saya.
 
 ## Tentang saya
 - Nama: Fahad Abdullah Idris
+- Kelas TI B
 - Program Studi: Teknik Informatika
 - Hobi: Olahraga
 - Impian: Menjadi Offshore
