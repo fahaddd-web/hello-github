@@ -1,5 +1,5 @@
 # Hello-github
-Halo! Ini adalah repository Github pertama saya.
+Hello! Ini adalah repository Github pertama saya.
 
 ## Tentang saya
 - Nama: Fahad Abdullah Idris
